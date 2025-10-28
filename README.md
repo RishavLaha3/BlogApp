@@ -9,8 +9,8 @@ A simple Python-based blogging application that allows users to create, edit, an
 
 ##  Tech Stack
 - **Language:** Python  
-- **Framework:** (Flask / Django / FastAPI — specify)  
-- **Database:** (SQLite / In-memory — specify)
+- **Framework:** FastAPI
+- **Database:** MongoDB
 
 ##  Installation & Usage
 

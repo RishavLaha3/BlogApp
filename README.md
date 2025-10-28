@@ -29,5 +29,4 @@ pip install fastapi uvicorn motor pydantic[email]
 # Run the application
 python main.py
 ```
-Running Tests (Backend)
-Go to http://127.0.0.1:8000/docs to test backend implementation
+Running Tests (Backend): Go to http://127.0.0.1:8000/docs to test backend implementation
